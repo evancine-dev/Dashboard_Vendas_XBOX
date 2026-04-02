@@ -17,11 +17,13 @@ Distribuição por tipo de plano
 Renovação automática (Sim vs Não)
 Análise geral das vendas
 Indicadores resumidos das assinaturas
+
 🛠️ Ferramentas Utilizadas
 Microsoft Excel
 Tabelas Dinâmicas
 Gráficos Dinâmicos
 Segmentação visual de dados
+
 🎯 Objetivo
 
 Demonstrar a criação de um dashboard simples e funcional para análise de assinaturas do Xbox Game Pass, com foco em visualização clara e interpretação rápida dos dados.
