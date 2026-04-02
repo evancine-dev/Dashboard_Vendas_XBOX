@@ -18,11 +18,11 @@ Renovação automática (Sim vs Não)
 Análise geral das vendas
 Indicadores resumidos das assinaturas
 
-🛠️ Ferramentas Utilizadas
-Microsoft Excel
-Tabelas Dinâmicas
-Gráficos Dinâmicos
-Segmentação visual de dados
+🛠️ Ferramentas Utilizadas:
+- Microsoft Excel
+- Tabelas Dinâmicas
+- Gráficos Dinâmicos
+- Segmentação visual de dados
 
 🎯 Objetivo
 
