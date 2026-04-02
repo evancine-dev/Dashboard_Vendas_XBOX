@@ -12,11 +12,11 @@ Essa aba contém a visualização final com os gráficos e indicadores construí
 
 O dashboard inclui:
 
-Total de assinaturas
-Distribuição por tipo de plano
-Renovação automática (Sim vs Não)
-Análise geral das vendas
-Indicadores resumidos das assinaturas
+- Total de assinaturas
+- Distribuição por tipo de plano
+- Renovação automática (Sim vs Não)
+- Análise geral das vendas
+- Indicadores resumidos das assinaturas
 
 🛠️ Ferramentas Utilizadas:
 - Microsoft Excel
